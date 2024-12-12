@@ -1,0 +1,28 @@
+
+  .body{
+    font-family: "Jaro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .modal{
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px; 
+ } 
+
+ #paragrafo{
+  text-align: justify;
+  font-family: 'Times New Roman', Times, serif;
+  margin: 10px;
+  padding: 5px;
+ }
+
+ .modal-header{
+  background-color: rgb(0, 0, 0);
+}
+
+.h1{
+  text-decoration: underline;
+}
